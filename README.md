@@ -4,7 +4,7 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<img src="giphy.gif" align="right" width="290px">
+<img src="the_data.gif" align="right" width="280px">
 
 ⭐ Looking forward to start my professional career in any Data Science Field. <br><br>
 🌱 I’m currently learning **Data Science related tools and technique 📊**<br><br>
