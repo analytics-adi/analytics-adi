@@ -58,7 +58,7 @@
   <img src="" align="center" alt="">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" align="center" alt="Tensorflow">
   <img src="" align="center" alt="">
-  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" align="center" alt="dialogflow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" align="center" alt="Pytorch">
   <img src="" align="center" alt="">
   
 
@@ -80,7 +80,7 @@
 <div align = 'center'>
   <h3 align="center"> 🫙 Database </h3>
   
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" align="center" alt="PostgreSQL">
   <img src="" align="center" alt="">
 
 </div>
