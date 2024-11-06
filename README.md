@@ -8,7 +8,7 @@
 
 ⭐ Looking forward to start my professional career in any Data Science Field. <br><br>
 🌱 I’m currently learning **Machine Learning related tools and technique 📊**<br><br>
-🤩 Intrigued by AI's potential to revolutionize industries.
+🤩 Intrigued by AI's potential to revolutionize industries.<br><br>
 🤔 Seeking to collaborate on AI-driven projects and expand my knowledge in the field.<br><br>
 
 
