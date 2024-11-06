@@ -7,9 +7,9 @@
 <img src="the_data.gif" align="right" width="280px">
 
 ⭐ Looking forward to start my professional career in any Data Science Field. <br><br>
-🌱 I’m currently learning **Data Science related tools and technique 📊**<br><br>
-🤩 Fascinated by **Astronomical Data Science Studies 🌌** and **AI 🤖🧠**<br><br>
-🤔 I’m looking for help with Astronomical Data Science Studies<br><br>
+🌱 I’m currently learning **Machine Learning related tools and technique 📊**<br><br>
+🤩 Intrigued by AI's potential to revolutionize industries.
+🤔 Seeking to collaborate on AI-driven projects and expand my knowledge in the field.<br><br>
 
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
